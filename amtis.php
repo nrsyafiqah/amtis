@@ -2,7 +2,7 @@
 <html>
 <body style="text-align:center">
 
-<h3>Calculate Electricity Rate</h3>
+<h3>Calculate Electricity</h3>
 
 Enter Voltage: <input type="number" id="voltage"></input><br>
 <br>
